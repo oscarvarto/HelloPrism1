@@ -1,0 +1,3 @@
+* Hello Prism
+
+An initial project to study Prism Delegate Commands, based on [[http://prismlibrary.github.io/docs/commanding.html][Using Delegate Commands]] video by Brian Lagunas
